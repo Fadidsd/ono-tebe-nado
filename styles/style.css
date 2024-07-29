@@ -260,8 +260,6 @@
   text-align: center;
 }
 
-.footer__menu-list {
-}
 
 .footer__menu-list-item {
   list-style: none;
@@ -279,6 +277,5 @@
 }
 
 .footer__social-icon {
-  width: 48px;
   width: 48px;
 }
